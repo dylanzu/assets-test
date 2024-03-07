@@ -1,0 +1,16 @@
+{
+    "tileAnim":[
+        {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 4},
+        {"name": "cloudPropeller", "startTile": 49,  "tiles":[49, 51], "delay": 2},
+        {"name": "cloud1", "startTile": 6, "tiles":[6, 39, 72, 39], "delay": 5},
+        {"name": "cloud2", "startTile": 7, "tiles":[7, 40, 73, 40], "delay": 5},
+        {"name": "cloud3", "startTile": 8, "tiles":[8, 41, 74, 41], "delay": 5},
+        {"name": "cloud4", "startTile": 9, "tiles":[9, 42, 75, 42], "delay": 5},
+        {"name": "cloud5", "startTile": 10, "tiles":[10, 43, 76, 43], "delay": 5},
+        {"name": "cloud6", "startTile": 11, "tiles":[11, 44, 77, 44], "delay": 5},
+        {"name": "cloud7", "startTile": 12, "tiles":[12, 45, 78, 45], "delay": 5},
+        {"name": "cloud8", "startTile": 13, "tiles":[13, 46, 79, 46], "delay": 5},
+        {"name": "cloud9", "startTile": 14, "tiles":[14, 47, 80, 47], "delay": 5},
+        {"name": "flashdot", "startTile": 134, "tiles":[134, 70], "delay": 2},
+    ]
+}
