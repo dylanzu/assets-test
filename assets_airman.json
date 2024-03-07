@@ -11,6 +11,6 @@
         {"name": "cloud7", "startTile": 12, "tiles":[12, 45, 78, 45], "delay": 5},
         {"name": "cloud8", "startTile": 13, "tiles":[13, 46, 79, 46], "delay": 5},
         {"name": "cloud9", "startTile": 14, "tiles":[14, 47, 80, 47], "delay": 5},
-        {"name": "flashdot", "startTile": 134, "tiles":[134, 70], "delay": 2},
+        {"name": "flashdot", "startTile": 134, "tiles":[134, 70], "delay": 2}
     ]
 }
