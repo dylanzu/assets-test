@@ -1,0 +1,5 @@
+{
+    "tileAnim":[
+        {"name": "boomba", "startTile": 0x11, "tiles":[2, 3], "delay": 1}
+    ]
+}
